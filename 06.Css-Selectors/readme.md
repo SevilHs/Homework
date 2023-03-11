@@ -1,7 +1,7 @@
-#<CssSelectors.>
-##It was created with html,css   
+# <Css-Selectors>
+##It was created with html and css.  
 Used technologies:
-- [HTML]
-- [CSS]
-- [Git]
-- [GitHub]
+- HTML
+- CSS
+- Git
+- GitHub
