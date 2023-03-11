@@ -13,3 +13,4 @@ Forms and pictures added in this project. Theese forms are given different style
 ![Screenshot (12)](https://user-images.githubusercontent.com/126726212/224512026-5542987f-674d-45fd-b1a8-d733088ae7d8.png)
 ##### Run Locally:
 Clone the project
+https://github.com/SevilHs/Homework/tree/main/06.Css-Selectors
