@@ -2,7 +2,7 @@ header{
     text-align: center;
 }
 .s1{
-    background-color: rgb(91, 130, 133);
+    background-color: rgb(159, 194, 196);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,4 +100,7 @@ ul{
 }
 .s7{
     text-align: left;
+}
+span{
+    font-size: 30px;
 }
