@@ -1,0 +1,103 @@
+header{
+    text-align: center;
+}
+.s1{
+    background-color: rgb(91, 130, 133);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+}
+.s3{
+    margin: 85px;
+}
+.register{
+    text-align: center;
+}
+.firstname{
+    color: rgb(67, 60, 111);
+}
+.surname{
+    color: maroon;
+}
+.email{
+    color: mediumblue;
+}
+.password{
+    color: rgb(132, 55, 114);
+}
+.s2 input:focus{
+    background-color: black;
+    color: white;
+}
+.s2 input:focus::placeholder{
+    color: red;
+}
+.radio{
+    accent-color: green;
+}
+.signin{
+    /* border-radius: 20px; */
+    color: rgb(35, 35, 249);
+    background-color: darkorange;
+}
+.signin:hover{
+    background-color: white;
+    color: red;
+}
+#textarea{
+    resize: none;
+}
+.age{
+    color: rgb(200, 153, 34);
+}
+.date{
+    color: rgb(173, 58, 173);
+}
+.choosedate{
+    color: blueviolet;
+}
+#save{
+    background-color: rgb(147, 232, 37);
+    color: black;
+}
+#save:hover{
+    background-color: white;
+    color: red;
+}
+.s4{
+    background-color: rgb(219, 189, 189);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 590px;
+}
+.s5{
+    margin: 55px;
+}
+.forminfo{
+    flex-direction: column;
+}
+.userinfo{
+    text-align: center;
+}
+.city{
+    color: red;
+}
+ul{
+    color: green;
+}
+.lorem1{
+    color: blue;
+}
+.s6{
+    background-color: rgb(140, 179, 184); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 590px;
+    flex-direction: column;
+}
+.s7{
+    text-align: left;
+}

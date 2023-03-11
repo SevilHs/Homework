@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./icon.png">
+    <title>CssSelectors</title>
+</head>
+<body>
+    <header><h2 >Css Selectors</h2></header>
+    <section class="s1" id="sign">
+        <section class="s2" >
+            <form >
+                <h2 class="register">Register Form</h2>
+                <label for="name" class="firstname"> First name:</label><br>
+                <input type="text" required placeholder="Enter a name..." id="name" size="55" ><br><br>
+                <label for="surname" class="surname"> Last name:</label><br>
+                <input type="text" required placeholder="Enter a surname..." id="surname" size="55" ><br><br>
+                <label for="email" class="email"> Email:</label><br>
+                <input type="email" required placeholder="Enter an email... " id="email" size="55" ><br><br>
+                <label for="pword" class="password"> Password:</label><br>
+                <input type="password" required placeholder="Enter a password..." id="pword" minlength="4" maxlength="16" size="55" ><br><br>
+                <input type="checkbox" required id="cbox">
+                <label for="cbox">Accept all requirments</label><br><br>
+                <input type="radio" required name="tso" class="radio">
+                <label for="tso"> Teacher</label>
+                <input type="radio" required name="tso" class="radio">
+                <label for="tso"> Student</label>
+                <input type="radio" required name="tso" class="radio">
+                <label for="tso" > Other</label><br><br>
+                <input type="submit" value="Sign in" class="signin" url="(#info)">
+            </form>
+            <p>Register maybe later: <a href="#info">Skip</a></p>
+        </section>
+        <section class="s3">
+            <img src="./rocket.jpg" alt="Rocket image" width="460px" height="470px">
+        </section>
+    </section> 
+    <section class="s4" id="info">
+        <section class="s5">
+            <img src="./rocket.jpg" alt="Rocket image" width="460px" height="470px">
+        </section>
+        <form class="forminfo">
+            <h2 class="userinfo"> User Info</h2>
+            <h2>Who are u?</h2>
+            <textarea id="textarea" cols="70" rows="10" placeholder="Add some info about yourself..." required></textarea><br><br>
+            <input type="file" required ><br><br>
+            <label for="date" class="choosedate"> Choose Date:</label>
+            <input type="date" required class="date"><br><br>
+            <label for="number" class="age">Age:</label>
+            <input type="number" required placeholder="your age..."><br><br>
+            <input type="submit" value="Save" id="save" url="(#city)"><br>
+            <p>Maybe later): <a href="#city">Skip</a></p>
+            <p>Go back and sign in: <a href="#sign"> Sign in </a></p>
+        </form>
+    </section>
+    <section class="s6" id="city">
+        <h2>Change tags' color without class name and id.</h2>
+        <p class="city">CITIES</p>
+        <section class="s7">
+            <ul>
+            <li>Shusha</li>
+            <li> Qusar</li>   
+            <li> Baku</li>
+             </ul>
+            <ol>
+            <li>Ismayili</li>
+            <li>Shamaki</li>
+            <li>Sirvan</li>
+            <li>Qazag</li>
+            </ol>
+        <p class="lorem1">Lorem1</p>
+        <p>Lorem2</p>
+        <p><a href="#sign">Go back </a>to first section!</p> </section>
+       
+    </section>
+</body>
+</html>
