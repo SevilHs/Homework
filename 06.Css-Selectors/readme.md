@@ -8,6 +8,8 @@ Forms and pictures added in this project. Theese forms are given different style
 - Git
 - GitHub
 ##### Screenshots:
-![Screenshot (7)](https://user-images.githubusercontent.com/126726212/224511791-b62b6430-e24b-451c-b432-66f06dbe0549.png)
-![Screenshot (8)](https://user-images.githubusercontent.com/126726212/224511795-ab98ffff-6001-41f0-91bc-d6aeb02d486a.png)
-![Screenshot (10)](https://user-images.githubusercontent.com/126726212/224511796-2014b7d7-7245-4b57-8983-1ac40646befd.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/126726212/224512022-6cc49896-f528-44f9-ba3f-6952b541487d.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/126726212/224512023-1bb30284-e0d8-4f01-9579-22a41aeeec1a.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/126726212/224512026-5542987f-674d-45fd-b1a8-d733088ae7d8.png)
+##### Run Locally:
+Clone the project
