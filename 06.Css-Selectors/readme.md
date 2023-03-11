@@ -5,3 +5,7 @@ Used technologies:
 *[CSS]
 *[Git]
 *[GitHub]
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
