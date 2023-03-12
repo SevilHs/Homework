@@ -1,5 +1,5 @@
 # Css-Selectors
-### It was created with HTML and Css.
+### It was created with HTML and CSS.
 Forms and pictures added in this project. Theese forms are given different styles using CSS.
 ### About the Project. 
 ##### Used technologies:
