@@ -16,10 +16,10 @@ Forms and pictures added in this project. Theese forms are given different style
 * Changed the title of the page and added a Favicon.  
 * Added the style.css file I created into the link in html.  
 * Used Css to change the look of the page and did the following: :arrow_down:
-:white_medium_square:	Changed the colors and sizes of the form headers and radio button. 
-:white_medium_square:	I placed the link on the Sign in, Skip, Go back buttons and gave the id of the section I wanted to go. 
-:white_medium_square:	Changed the background color.
-:white_medium_square:	Gave some commands to make the forms and the images look better.
+	1. Changed the colors and sizes of the form headers and radio button. 
+	2. I placed the link on the Sign in, Skip, Go back buttons and gave the id of the section I wanted to go. 
+	3. Changed the background color.
+	4. Gave some commands to make the forms and the images look better.
 ##### Run Locally:
 Clone the project
 https://github.com/SevilHs/Homework/tree/main/06.Css-Selectors
