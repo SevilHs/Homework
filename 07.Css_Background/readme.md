@@ -1,5 +1,5 @@
-#CSS Background.
-###It was created with HTML and CSS.
+# CSS Background.
+### It was created with HTML and CSS.
 CSS background properties were used to add background properties for elements.
 ### About the project:
 ##### Used technologies:
@@ -24,3 +24,4 @@ CSS background properties were used to add background properties for elements.
 * Finally added "background-attachment: fixed" to some of the pictures.
 ##### Run locally:
 Clone the project
+https://github.com/SevilHs/Homework/tree/main/07.Css_Background
