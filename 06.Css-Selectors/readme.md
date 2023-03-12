@@ -17,7 +17,7 @@ Forms and pictures added in this project. Theese forms are given different style
 * Added the style.css file I created into the link in html.  
 * Used Css to change the look of the page and did the following: :arrow_down:
     + Changed the colors and sizes of the form headers and radio button.
-    + I placed the link on the Sign in, Skip, Go back buttons and gave the id of the section I wanted to go._
+    + I placed the link on the Sign in, Skip, Go back buttons and gave the id of the section I wanted to go.
     + Changed the background color.
     + Gave some commands to make the forms and the images look better.
 ##### Run Locally:
