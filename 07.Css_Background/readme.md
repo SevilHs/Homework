@@ -16,6 +16,8 @@ CSS background properties were used to add background properties for elements.
 * Set up the structure of the pages in HTML.
 * Added the style.css and style2.css files to the HTML.
 * Added the favicon, form and paragraph to the first page.
+* Changed color and sizes of the items in the input.
+* Used button:hover, opacity, display:flex, background-attachment: fixed.
 * Added the background image.
 * Changed the size of the image to match the size of the page.
 * Changed the color and background color of the "Learn more" and "Sign up" buttons.
@@ -25,3 +27,7 @@ CSS background properties were used to add background properties for elements.
 ##### Run locally:
 Clone the project
 https://github.com/SevilHs/Homework/tree/main/07.Css_Background
+##### Resources:
+- https://www.w3schools.com/csS/css_background.asp
+- https://www.w3schools.com/css/css3_colors.asp
+- https://www.w3schools.com/cssref/sel_hover.php
