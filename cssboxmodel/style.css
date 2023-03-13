@@ -94,7 +94,7 @@ footer{
     justify-content: center;
     padding: 150px;
 }
-footer ul .span3{
+footer ul span{
     display: inline-block;
     color: white;
     font-weight: bold;
@@ -102,8 +102,9 @@ footer ul .span3{
     padding: 5px;
     margin-bottom: 20px;
     border-bottom: 1px solid red;
-    border-bottom-width: 2px;
     width: 40px;
+    border-bottom-width: 2px;
+    
 }
 .icons a i{
     padding: 15px 15px 15px 5px;
